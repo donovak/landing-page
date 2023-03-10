@@ -137,5 +137,46 @@ a {
     margin-bottom: 64px;
 }
 
+.container-four {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.call {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882f6;
+    padding: 48px 96px;
+    margin: 64px 0;
+    border-radius: 32px;
+}
+
+.titlecall {
+    color: #F9FAF8;
+}
+
+.calltext {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 24px
+}
+
+.right-call {
+    color: #F9FAF8;
+    background-color: #3882f6;
+    border-color: #F9FAF8;
+    border-radius: 15px;
+    border-width: 4px;
+    padding: 2px 32px;
+    font-size: 18px;
+    font-weight: bold;
+}
 
 
